@@ -102,6 +102,6 @@ This results in three main segments:
 
 👩‍💻 Author
 
-Name: Yomna Ahmed Hamdy
+Yomna Ahmed Hamdy
+
 Data Analyst & Data Scientist
-Track: Power BI – ITI
